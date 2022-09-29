@@ -1,3 +1,5 @@
+#!/usr/bin/env
+
 import random
 greets = ['hello','hi','hola','konichiwa']
 name = input('what is your name: ')
